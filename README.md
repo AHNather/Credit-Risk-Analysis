@@ -4,19 +4,19 @@ This repository contains the Excel-based reports used for assessing credit risk 
 
 - **Vintage Analysis Report**: Analyzes how accounts' statuses change over time based on the number of months they’ve been active. This helps in predicting future delinquencies and defaults.
 
-<img src="images/VintageAnalysisReport.png" width="700" /> 
+<img src="Images/VintageAnalysisReport.png" width="700" /> 
 
 - **Roll Rate Report**: Tracks the migration of delinquent accounts through different stages, such as from Current to Delinquent or Charged-Off. This report is used to assess credit risk based on customer demographics and behavior.
 
-<img src="images/RollRateReport.png" width="700" /> 
+<img src="Images/RollRateReport.png" width="700" /> 
 
 - **Loss Provisioning Report**: Projects future losses by analyzing historical data and applying forecasting techniques to estimate how many accounts will likely end up in default, and how much loss the company can expect.
 
-<img src="images/LossProvisionsReport.png" width="700" /> 
+<img src="Images/LossProvisionsReport.png" width="700" /> 
 
 - **New Growth Forecasting**: Uses historical account performance to forecast the number of new accounts that will likely be charged-off in the future. This report helps in projecting the performance of new loans or accounts under similar demographic conditions.
 
-<img src="images/NewGrowthForecasting.png" width="700" /> 
+<img src="Images/NewGrowthForecasting.png" width="700" /> 
 
 
 ## Tools Used
