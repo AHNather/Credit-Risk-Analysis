@@ -27,6 +27,8 @@ This repository contains the Excel-based reports used for assessing credit risk 
 ## Datasets Used
 - `Company 1 – Application Record.xlsx`
 - `Company 1 – Credit Record.xlsx`
+- `Company 2 – Application Record.xlsx`
+- `Company 2 – Credit Record.xlsx`
 
 ## Objective
 The goal of these reports is to assist credit risk and strategy teams in forecasting future losses and understanding the risks associated with delinquent accounts, segmented by different demographic and financial characteristics. These reports will also guide marketing teams in projecting the success of future campaigns.
@@ -43,7 +45,7 @@ These reports provide actionable insights for credit risk management, helping pr
 ---
 
 ## How to Use
-1. Download the `Company 1 – Application Record.xlsx` and `Company 1 – Credit Record.xlsx` datasets.
+1. Download the datasets.
 2. Load the datasets into Excel using Power Query Editor.
 3. Establish relationships between the datasets using Power Pivot.
 4. Use the Vintage Analysis, Roll Rate, and Loss Provisioning tabs to analyze and project future credit risks and losses.
