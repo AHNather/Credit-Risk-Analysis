@@ -1,4 +1,4 @@
-# Credit Risk Analysis and Loss Provisions Reports
+# Credit Risk Analysis
 
 This repository contains the Excel-based reports used for assessing credit risk and projecting future losses in a financial institution. The reports created include:
 
